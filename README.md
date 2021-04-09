@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @envitricollat - My corporate account at Glovo is https://github.com/asalvadorpalau
 - 👀 I’m interested in Machine Learning, Physics and applied Mathematics
 - 🌱 I’m currently learning how to produce adversarial attacks against neural networks and how to model the supersonic expasion of Neutral Helium into vacuum
-- 💞️ I’m looking to collaborate on anything related to ML/AI/My field of physics
+- 💞️ I’m looking to collaborate on anything related to ML/AI/Molecular Beams/Helium Microscopy
 - 📫 How to reach me adriasalvadorp@gmail.com
 
 <!---
